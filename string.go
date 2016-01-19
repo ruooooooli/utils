@@ -3,7 +3,7 @@
 * @Email                : ruooooooli@gmail.com
 * @Date                 : 2016-01-19 18:26:46
 * @Last Modified by     : ruoli
-* @Last Modified time   : 2016-01-19 18:47:43
+* @Last Modified time   : 2016-01-19 18:49:05
  */
 package utils
 
@@ -12,6 +12,7 @@ import (
 	"fmt"
 	"io"
 	"math/rand"
+	"time"
 )
 
 func MD5(str string) string {
